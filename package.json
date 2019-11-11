@@ -1,0 +1,15 @@
+{
+  "name": "simpleAPI",
+  "version": "1.0.0",
+  "description": "A simple API to be used for testing",
+  "main": "server.js",
+  "author": "Daniel Bispo",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.10",
+    "node-restful": "^0.2.6"
+  }
+}

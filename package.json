@@ -2,7 +2,7 @@
   "name": "simpleAPI",
   "version": "1.0.0",
   "description": "A simple API to be used for testing",
-  "main": "server.js",
+  "main": "loader.js",
   "author": "Daniel Bispo",
   "license": "MIT",
   "private": false,
@@ -11,5 +11,8 @@
     "express": "^4.17.1",
     "mongoose": "^5.7.10",
     "node-restful": "^0.2.6"
+  },
+  "scripts": {
+    "start": "node loader.js"
   }
 }

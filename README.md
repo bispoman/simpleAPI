@@ -7,7 +7,7 @@ Nela usei node.js com YARN como gerenciador de dependências e Mongo como banco.
 
 ##Como rodar
 Basta clonar o projeto e usar o comando 
-```nodejs
+```
 yarn run
 ```
 

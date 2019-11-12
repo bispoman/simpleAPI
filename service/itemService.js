@@ -1,4 +1,4 @@
-const Item = require('./model/item')
+const Item = require('../model/item')
 
 Item.methods(['get', 'post', 'put', 'delete'])
 
